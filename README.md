@@ -15,4 +15,4 @@ Este curso oferece uma introdução completa e prática à lógica de programaç
 - Plataforma: Udemy  
 - Professor: Nelio Alves  
 - Duração: 30,5 horas no total  
-- Conclusão: Em andamento  
+- Conclusão: Concluido
